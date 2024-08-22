@@ -1,8 +1,23 @@
-# React + Vite
+# Everything Js Community
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+1) Community Landing Page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2) Leader boards and Top Community Contributors
+
+3) Blog
+
+4) Job Posting
+
+5) Road maps
+
+6) Courses
+
+7) Newsletters
+
+8) Projects (Featured)
+
+9) Available Tasks and Projects for people to hop on
+
+10) Dashboard
